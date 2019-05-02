@@ -1,0 +1,10 @@
+body{
+  background-image: url("northern..jpg"); 
+  background-size: 100%; 
+  background-repeat: no-repeat; 
+  display: inline;
+}
+
+.row{
+  flex: 1;
+}
